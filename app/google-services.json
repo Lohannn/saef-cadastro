@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "672626083301",
+    "project_id": "upload-ds3t-lohannes",
+    "storage_bucket": "upload-ds3t-lohannes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672626083301:android:e9b16d5869e57f6206db0c",
+        "android_client_info": {
+          "package_name": "br.senai.sp.jandira.api_livraria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_AFMuO45-urk6_LY3iG0SSdrquv9Q3pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672626083301:android:3820408eeafa347706db0c",
+        "android_client_info": {
+          "package_name": "br.senai.sp.jandira.saf_projeto_senai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_AFMuO45-urk6_LY3iG0SSdrquv9Q3pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672626083301:android:18ec44e1ebd94c7206db0c",
+        "android_client_info": {
+          "package_name": "br.senai.sp.jandira.upload_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_AFMuO45-urk6_LY3iG0SSdrquv9Q3pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
